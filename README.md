@@ -1,5 +1,5 @@
 # chaosmap-encryptor
-
+Image encryption using classical chaos maps.
 ## Results
 ### Encryption
 First Arnold Encryption is done after which Henon encryption is done.<br>
